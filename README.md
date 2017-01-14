@@ -1,8 +1,6 @@
 #**Project Title**#
----
 
 ## Project Structure
----
 
 *Default Structure for A Basic Project*
 
